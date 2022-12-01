@@ -7,3 +7,10 @@ This program was designed using a customized Ubuntu VM.
 2. In the project directory, execute the `make` command. This project was designed to be compiled using **clang**. Using **GCC** may not work
 3. To start the program, run `./penn-sh`.
 4. Apply your own redirect commands to test the functionality. The program **cannot** handle multiple redirects. 
+
+## Note on Access
+At the request of University of Pennsylvania instruction staff, I have changed the visibility of the following projects to "Private" in support of their academic integrity goals.
+
+Penn-Shell; Penn-Shredder; Penn-Shake; Penn-Chord and Penn-Search
+
+Please email me if you are a recruiter/prospective employer and would like access to the full repositories for each project. I'll be happy to send you the decryption key. Thanks!
